@@ -1,0 +1,27 @@
+{
+  "name": "plan_a",
+  "version": "1.0.0",
+  "description": "first webpack study",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skkhub/planA.git"
+  },
+  "keywords": [
+    "webpack",
+    "study"
+  ],
+  "author": "skk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skkhub/planA/issues"
+  },
+  "homepage": "https://github.com/skkhub/planA#readme",
+  "dependencies": {
+    "webpack": "^1.13.3"
+  },
+  "devDependencies": {}
+}
